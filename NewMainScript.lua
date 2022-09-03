@@ -237,7 +237,7 @@ if game.Players.LocalPlayer.Name == 'Turtley_coole' or game.Players.LocalPlayer.
 	end,
 	["Default"] = false
 })
-elseif game.Players.LocalPlayer.Name == 'BadHabitSorry' then
+elseif game.Players.LocalPlayer.Name == 'jierobloxs' then
 	local oasjdiadhasudba = LIB("Whitelist", {
 	["Name"]  = "OWNER",
 	["Function"] = function(callback)
