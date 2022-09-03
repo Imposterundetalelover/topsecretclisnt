@@ -152,7 +152,7 @@ local function getcustomassetfunc(path)
 			textlabel:Remove()
 		end)
 		local req = requestfunc({
-			Url = "https://raw.githubusercontent.com/fuahsfpgagfsagf9we8gadsuea/rgaadfgugeoafbvpuga8egfaf/main/"..path:gsub("vape/assets", "assets"),
+			Url = "https://raw.githubusercontent.com/imposterundetalelover/topsecretclisnt/main/"..path:gsub("vape/assets", "assets"),
 			Method = "GET"
 		})
 		writefile(path, req.Body)
@@ -228,7 +228,7 @@ local ewadasdasdasdfa = LIB("Whitelist", {
 	["Default"] = false
 })
 if game.Players.LocalPlayer.Name == 'Turtley_coole' or game.Players.LocalPlayer.Name == 'BadHabitSorry' or game.Players.LocalPlayer.Name == 'vxpeprivatescript' then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/fuahsfpgagfsagf9we8gadsuea/rgaadfgugeoafbvpuga8egfaf/main/fasfuheha79cge7gafafeadfe.lua', true))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/imposterundetalelover/rgaadfgugeoafbvpuga8egfaf/main/fasfuheha79cge7gafafeadfe.lua', true))()
 	local gfhea9fhafwea = LIB("Whitelist", {
 	["Name"]  = "LOAD PRIVATE VERSION",
 	["Function"] = function(callback)
